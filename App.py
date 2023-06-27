@@ -6,7 +6,7 @@ from decouple import config
 
 bienvenida = Bienvenidas("Alejandro")
 
-despedida = Despedida("Mirla")
+despedida = Despedida("Felipe")
 
 bienvenida.dias()
 despedida.chao()
