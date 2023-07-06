@@ -1,7 +1,8 @@
 #Ignorar el archivos
-text1.py
+texto1.py
 archivo_ignorar.py
 
 #Ignorar carpetas
 /carpetaIgnorar
 /carpetaInterior/si_ignorar.py
+/carpetaInterior/*.txt
