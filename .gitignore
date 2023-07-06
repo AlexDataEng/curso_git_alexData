@@ -1,3 +1,7 @@
-#Ignorar el archivo
-.text1
-#
+#Ignorar el archivos
+text1.py
+archivo_ignorar.py
+
+#Ignorar carpetas
+/carpetaIgnorar
+/carpetaInterior/si_ignorar.py
